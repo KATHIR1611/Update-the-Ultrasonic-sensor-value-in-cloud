@@ -249,11 +249,11 @@ long microsecondsToCentimeters(long microseconds) {
 
 # CIRCUIT DIAGRAM:
 
-
+![](https://github.com/KATHIR1611/Update-the-Ultrasonic-sensor-value-in-cloud/blob/main/2bff5d01-9e8c-4bd0-bd17-6f2d89a41b3d.jpg)
 
 # OUTPUT:
 
-![]()
+![](https://github.com/KATHIR1611/Update-the-Ultrasonic-sensor-value-in-cloud/blob/main/952304dd-beda-46a8-b77c-dfee7679b390.jpg)
 
 # RESULT:
 
