@@ -248,7 +248,7 @@ long microsecondsToCentimeters(long microseconds) {
 ```
 
 # CIRCUIT DIAGRAM:
-<img src="https://github.com/KATHIR1611/Update-the-Ultrasonic-sensor-value-in-cloud/blob/main/2bff5d01-9e8c-4bd0-bd17-6f2d89a41b3d.jpg" width=400 height=400>
+<img src="https://github.com/KATHIR1611/Update-the-Ultrasonic-sensor-value-in-cloud/blob/main/2bff5d01-9e8c-4bd0-bd17-6f2d89a41b3d.jpg" width=400 height=350>
 
 # OUTPUT:
 
