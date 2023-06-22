@@ -80,8 +80,6 @@ Register number : 212221220026
 
 int duration, inches, cm;
 
-
-
 String inputString = "";         // a String to hold incoming data
 bool stringComplete = false;     // whether the string is complete
 
@@ -94,8 +92,6 @@ bool time_to_at_recvb=false;
 bool get_LA66_data_status=false;
 
 bool network_joined_status=false;
-
-
 
 SoftwareSerial ss(10, 11);       // Arduino RX, TX ,
 
