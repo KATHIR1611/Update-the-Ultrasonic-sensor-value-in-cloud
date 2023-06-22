@@ -1,9 +1,11 @@
-# Update-the-Ultrasonic-sensor-value-in-Things Mate
+# EX:10 Update-the-Ultrasonic-sensor-value-in-Things Mate
+
+Date : 09/06/23
 
 # AIM:
 To upload the Ultrasonic sensor value in the Things mate using Arduino controller.
 
-# Apparatus required:
+# APPARATUS REQUIRED:
 Arduino Controller  </br>
 Indoor gateway</br>
 LoRaWAN shield </br>
@@ -62,6 +64,10 @@ License-free radio spectrum but region-specific regulations apply.
 Low power but has a limited payload size of 51 bytes to 241 bytes depending on the data rate. The data rate can be 0,3 Kbit/s – 27 Kbit/s data rate with a 222 maximal payload size.
 
 # PROGRAM:
+
+Developed by : Kathirvelan.K
+
+Register number : 212221220026
 ```
 #include <SoftwareSerial.h>
 #include <Adafruit_Sensor.h>
